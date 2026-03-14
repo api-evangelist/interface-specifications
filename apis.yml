@@ -1,0 +1,15 @@
+name: Interface Specifications
+description: Documentation that defines the contract between different software components,
+  including API endpoints, data formats, protocols, and integration requirements.
+  It is used across a range of industries and technical contexts to improve efficiency
+  and outcomes.
+url: https://en.wikipedia.org/wiki/Interface_specification
+tags:
+- API Documentation
+- Software Architecture
+- System Integration
+- Technical Specifications
+created: '2025'
+modified: '2025'
+apis: []
+common: []
