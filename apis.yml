@@ -1,15 +1,26 @@
+aid: interface-specifications
 name: Interface Specifications
-description: Documentation that defines the contract between different software components,
-  including API endpoints, data formats, protocols, and integration requirements.
-  It is used across a range of industries and technical contexts to improve efficiency
-  and outcomes.
-url: https://en.wikipedia.org/wiki/Interface_specification
+description: >-
+  Interface Specifications define the contract between different software
+  components, including API endpoints, data formats, protocols, and integration
+  requirements. They are used across industries and technical contexts to improve
+  efficiency, interoperability, and outcomes in software integration.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- API Documentation
-- Software Architecture
-- System Integration
-- Technical Specifications
-created: '2025'
-modified: '2025'
+  - API Documentation
+  - Software Architecture
+  - System Integration
+  - Technical Specifications
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/interface-specifications/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://en.wikipedia.org/wiki/Interface_specification
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
