@@ -1,4 +1,5 @@
 aid: interface-specifications
+x-type: concept
 name: Interface Specifications
 description: >-
   Interface Specifications define the contract between different software
