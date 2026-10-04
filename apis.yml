@@ -1,6 +1,7 @@
 aid: interface-specifications
 x-type: concept
 name: Interface Specifications
+kind: topic
 description: >-
   Interface Specifications define the contract between different software
   components, including API endpoints, data formats, protocols, and integration
